@@ -4,3 +4,4 @@
 config
 *.iml
 *.db
+config.properties
